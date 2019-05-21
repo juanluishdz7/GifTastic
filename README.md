@@ -4,9 +4,9 @@ This app uses GIPHY API to populate 10 gifs on the click of a button. It also al
 
 Technologies used:
 
-GIPHY API
-JavaScript
-JQuery
+<GIPHY API>
+<JavaScript>
+<JQuery>
 
 https://juanluishdz7.github.io/GifTastic/
 
